@@ -599,7 +599,7 @@ int main() {
     } 
     while (loginOption != 3 && menuOption != 5);
 
-    printf("Thank you for playing!\n");
+    printf("\nThank you for playing!\n");
     printf("Made by Paper Plane");
     getchar();
 
