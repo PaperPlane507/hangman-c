@@ -599,7 +599,9 @@ int main() {
     } 
     while (loginOption != 3 && menuOption != 5);
 
-
+    printf("Thank you for playing!\n");
+    printf("Made by Elvin");
+    getchar();
 
     return 0;
 }
